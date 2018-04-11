@@ -1,7 +1,3 @@
-# JSF Tools Maven Repository
+# Java Tools Maven Repository
 
-Local maven repository to [jsftools](https:github.com/jsftools/) projects.
-
-
-
-
+Local maven repository to [Java Tools](https://java-tools.github.io/maven-repository/) projects.
